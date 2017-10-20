@@ -3,5 +3,5 @@ module.exports = {
 	SUBDOMAIN:    '',
 	ENVIRONMENT:  'sandbox',
 	DEBUG: true,
-	API_VERSION: 2
+	API_VERSION: 2.4
 };
